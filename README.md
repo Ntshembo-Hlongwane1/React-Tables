@@ -10,7 +10,6 @@ For this assignment, you'll create a employee directory with React. This assignm
 
 ## Business Context
 
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## Acceptance Criteria
 
